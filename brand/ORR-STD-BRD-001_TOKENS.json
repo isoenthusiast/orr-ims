@@ -1,0 +1,218 @@
+{
+  "documentId": "ORR-STD-BRD-001",
+  "revision": "r03",
+  "status": "Draft",
+  "theme": "light",
+  "direction": "04 \u2014 Engineered Layers, vibrant refinement",
+  "colors": {
+    "navy": "#10243A",
+    "cobalt": "#315CFF",
+    "teal": "#00B8A9",
+    "amber": "#FFB627",
+    "canvas": "#F5F8FF",
+    "white": "#FFFFFF",
+    "textMuted": "#526174",
+    "borderSubtle": "#CFD9E8",
+    "borderStrong": "#7C8CA3",
+    "cobaltHover": "#2448D8",
+    "cobaltSoft": "#EBF0FF",
+    "tealInk": "#007C72",
+    "tealSoft": "#E3F7F4",
+    "amberInk": "#8A4B00",
+    "amberSoft": "#FFF3D6",
+    "successInk": "#18713A",
+    "successSoft": "#E8F5EC",
+    "dangerInk": "#B42318",
+    "dangerSoft": "#FDECE9",
+    "unknownSoft": "#EDF0F4"
+  },
+  "semantic": {
+    "text": "navy",
+    "textSecondary": "textMuted",
+    "surface": "white",
+    "background": "canvas",
+    "primary": "cobalt",
+    "onPrimary": "white",
+    "primaryHover": "cobaltHover",
+    "navigation": "navy",
+    "onNavigation": "white",
+    "accentConnection": "teal",
+    "onAccentConnection": "navy",
+    "accentModule": "amber",
+    "onAccentModule": "navy",
+    "link": "cobalt",
+    "focusInner": "white",
+    "focusOuter": "navy",
+    "controlBorder": "borderStrong",
+    "divider": "borderSubtle",
+    "connectionStroke": "tealInk",
+    "successText": "successInk",
+    "successBackground": "successSoft",
+    "warningText": "amberInk",
+    "warningBackground": "amberSoft",
+    "failureText": "dangerInk",
+    "failureBackground": "dangerSoft",
+    "unknownText": "textMuted",
+    "unknownBackground": "unknownSoft",
+    "selectedText": "cobaltHover",
+    "selectedBackground": "cobaltSoft"
+  },
+  "typography": {
+    "sans": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+    "mono": "ui-monospace, SFMono-Regular, Consolas, monospace",
+    "bodyRem": 1,
+    "smallRem": 0.875,
+    "metadataRem": 0.75,
+    "headingLargeRem": 2.5,
+    "headingMediumRem": 1.75,
+    "headingSmallRem": 1.25,
+    "bodyLineHeight": 1.5,
+    "headingLineHeight": 1.15,
+    "regularWeight": 400,
+    "mediumWeight": 600,
+    "strongWeight": 700
+  },
+  "spacingPx": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "geometry": {
+    "controlRadiusPx": 8,
+    "panelRadiusPx": 12,
+    "strokePx": 2,
+    "targetMinPx": 44
+  },
+  "motion": {
+    "durationMs": 160,
+    "easing": "ease-out",
+    "reducedMotionDurationMs": 0
+  },
+  "contrastPairs": [
+    {
+      "name": "Body text",
+      "foreground": "navy",
+      "background": "canvas",
+      "minimum": 4.5
+    },
+    {
+      "name": "Panel text",
+      "foreground": "navy",
+      "background": "white",
+      "minimum": 4.5
+    },
+    {
+      "name": "Secondary text",
+      "foreground": "textMuted",
+      "background": "canvas",
+      "minimum": 4.5
+    },
+    {
+      "name": "Secondary panel text",
+      "foreground": "textMuted",
+      "background": "white",
+      "minimum": 4.5
+    },
+    {
+      "name": "Primary button",
+      "foreground": "white",
+      "background": "cobalt",
+      "minimum": 4.5
+    },
+    {
+      "name": "Primary hover",
+      "foreground": "white",
+      "background": "cobaltHover",
+      "minimum": 4.5
+    },
+    {
+      "name": "Navigation",
+      "foreground": "white",
+      "background": "navy",
+      "minimum": 4.5
+    },
+    {
+      "name": "Teal accent label",
+      "foreground": "navy",
+      "background": "teal",
+      "minimum": 4.5
+    },
+    {
+      "name": "Amber accent label",
+      "foreground": "navy",
+      "background": "amber",
+      "minimum": 4.5
+    },
+    {
+      "name": "Link on canvas",
+      "foreground": "cobalt",
+      "background": "canvas",
+      "minimum": 4.5
+    },
+    {
+      "name": "Link on white",
+      "foreground": "cobalt",
+      "background": "white",
+      "minimum": 4.5
+    },
+    {
+      "name": "Connection label",
+      "foreground": "tealInk",
+      "background": "white",
+      "minimum": 4.5
+    },
+    {
+      "name": "Success label",
+      "foreground": "successInk",
+      "background": "successSoft",
+      "minimum": 4.5
+    },
+    {
+      "name": "Warning label",
+      "foreground": "amberInk",
+      "background": "amberSoft",
+      "minimum": 4.5
+    },
+    {
+      "name": "Failure label",
+      "foreground": "dangerInk",
+      "background": "dangerSoft",
+      "minimum": 4.5
+    },
+    {
+      "name": "Unknown label",
+      "foreground": "textMuted",
+      "background": "unknownSoft",
+      "minimum": 4.5
+    },
+    {
+      "name": "Selected label",
+      "foreground": "cobaltHover",
+      "background": "cobaltSoft",
+      "minimum": 4.5
+    },
+    {
+      "name": "Input boundary",
+      "foreground": "borderStrong",
+      "background": "white",
+      "minimum": 3
+    },
+    {
+      "name": "Input boundary on canvas",
+      "foreground": "borderStrong",
+      "background": "canvas",
+      "minimum": 3
+    },
+    {
+      "name": "Connection on canvas",
+      "foreground": "tealInk",
+      "background": "canvas",
+      "minimum": 3
+    }
+  ]
+}

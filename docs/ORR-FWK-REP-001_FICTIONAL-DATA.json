@@ -1,0 +1,137 @@
+{
+  "document_id": "ORR-FWK-REP-001",
+  "revision": "r03",
+  "status": "Draft",
+  "fixture_schema": "discussion-example-v1-not-a-production-contract",
+  "origin": "fictional",
+  "scope_id": "scope-demo",
+  "scope": {
+    "id": "scope-demo",
+    "name": "Fictional demonstration scope",
+    "origin": "fictional"
+  },
+  "records": [
+    {
+      "id": "demo-objective-01",
+      "type": "objective",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "title": "Maintain reliable service",
+      "owner_role": "Service owner",
+      "measure": null,
+      "target": null,
+      "state": "proposed"
+    },
+    {
+      "id": "demo-workflow-01-v1",
+      "type": "workflow_version",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "process_id": "P04",
+      "name": "Risk review discussion route",
+      "state": "illustrative-not-approved"
+    },
+    {
+      "id": "demo-risk-01",
+      "type": "risk",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "objective_id": "demo-objective-01",
+      "title": "A single supplier dependency interrupts service",
+      "owner_role": "Service owner",
+      "assessment_method": null,
+      "current_rating": null,
+      "state": "assessment-required"
+    },
+    {
+      "id": "demo-case-01",
+      "type": "process_case",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "workflow_version_id": "demo-workflow-01-v1",
+      "risk_id": "demo-risk-01",
+      "owner_role": "Risk coordinator",
+      "state": "action-planning"
+    },
+    {
+      "id": "demo-agenda-01",
+      "type": "agenda_item",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "case_id": "demo-case-01",
+      "risk_id": "demo-risk-01",
+      "requested_decision": "Commission an assessment and options review",
+      "state": "discussed-in-fictional-example"
+    },
+    {
+      "id": "demo-decision-01",
+      "type": "decision",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "agenda_item_id": "demo-agenda-01",
+      "subject_id": "demo-risk-01",
+      "subject_revision": 1,
+      "decision_role": "Leadership chair",
+      "actor_id": null,
+      "authority_basis": "Illustrative role only; no real delegation",
+      "decision": "Request assessment and development of a supplier-review control",
+      "conditions": "No residual-risk acceptance or operational approval inferred",
+      "recorded_at": "2026-10-30T09:00:00+08:00",
+      "state": "illustrative-decision-only"
+    },
+    {
+      "id": "demo-control-01-v1",
+      "type": "control_version",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "risk_id": "demo-risk-01",
+      "who": "Supplier owner",
+      "what": "Review critical supplier dependencies and propose treatment for gaps",
+      "when": "Review interval and change triggers to be configured",
+      "where": "Scoped supplier register",
+      "why": "Identify dependencies threatening reliable service",
+      "how": "Use an approved assessment method and escalate gaps to the authorized decision role; method and criteria pending",
+      "evidence_required": "Dated review, assessment inputs, findings and decision references",
+      "state": "proposed-not-deployed"
+    },
+    {
+      "id": "demo-action-01",
+      "type": "action",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "decision_id": "demo-decision-01",
+      "control_version_id": "demo-control-01-v1",
+      "owner_role": "Supplier owner",
+      "due_at": null,
+      "title": "Define review criteria, triggers and authority",
+      "closure_criteria": "Competent review of method, criteria, roles and evidence requirements",
+      "state": "open"
+    },
+    {
+      "id": "demo-assurance-01",
+      "type": "assurance_request",
+      "revision": 1,
+      "origin": "fictional",
+      "scope_id": "scope-demo",
+      "control_version_id": "demo-control-01-v1",
+      "evidence_ids": [],
+      "assessor_id": null,
+      "outcome": null,
+      "state": "pending-control-design-and-evidence"
+    }
+  ],
+  "evidence_items": [],
+  "limitations": [
+    "Fictional relationships only; no actual work or approval occurred.",
+    "No claim of full process implementation or production-schema completeness.",
+    "Missing methods, targets, appointments and due dates intentionally remain visible."
+  ]
+}

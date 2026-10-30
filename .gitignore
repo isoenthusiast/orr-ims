@@ -1,0 +1,23 @@
+# Local coordination and review material is not a release payload.
+/AGENTS.md
+/.local/
+
+# Credentials, local configuration and generated dependencies.
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local operational databases and narration.
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.mp3
+*.wav
