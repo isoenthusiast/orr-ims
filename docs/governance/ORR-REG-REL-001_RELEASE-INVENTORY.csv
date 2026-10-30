@@ -7,7 +7,7 @@ LICENSES/Apache-2.0.txt,Not-controlled,Not-applicable,Licence-text,Licence-text,
 LICENSES/CC-BY-4.0.txt,Not-controlled,Not-applicable,Licence-text,Licence-text,Unmodified publisher licence text,9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
 LICENSING.md,Not-controlled,Not-applicable,Candidate,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,7096fd7bd534c777c3a1faeb19a799c01a008882b2c1b7454e091fba24faa32e
 NOTICE.md,Not-controlled,Not-applicable,Candidate,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,01f35db25824dd503baf314cd71e863ddf2ab1119af1f73b975a630de98ece7d
-README.md,Not-controlled,Not-applicable,Candidate,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,c832c69332d39d0b8ab574fe2129f798baca808983b841cb55f892b4ed3aaf8a
+README.md,Not-controlled,Not-applicable,Candidate,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,26723bb7c3d6ffcf0ba9d9b5da4ba590d3403fcfab21892651b4afc16bee7623
 SECURITY.md,Not-controlled,Not-applicable,Candidate,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,cf4cc398754675566c9b07dea13c6e536a14be9365bd3f48a3cedd36ac2ee5c1
 SOURCES.md,Not-controlled,Not-applicable,Candidate,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,4709ab473243d2e2fed1e5e81067c4ec6b58cf8630ea09d7ece0aa144fa0cb4d
 brand/ORR-STD-BRD-001_BRAND-GUIDE.md,ORR-STD-BRD-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,01ddf249ecedc6bc153967a2a25dc3e4817a20449907fac5fdec93c7b6616f0f
@@ -19,10 +19,10 @@ brand/ORR-STD-BRD-001_TOKENS.css,ORR-STD-BRD-001,r03,Draft,Apache-2.0,Original A
 brand/ORR-STD-BRD-001_TOKENS.json,ORR-STD-BRD-001,r03,Draft,Apache-2.0,Original AI-assisted project asset/code,9d3dd5b2b2300d21aa7fa274897d00caee5692c6b2eb3cdecda0b018ed66df5f
 docs/ORR-FWK-REP-001_FICTIONAL-DATA.json,ORR-FWK-REP-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,7595847ebdb125a4fb8ad13ba911da285c9a6de8875c702890be03cec76db5cc
 docs/ORR-FWK-REP-001_REPOSITORY-BLUEPRINT.md,ORR-FWK-REP-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,766ab2d5e044bb41b5e9b4c56de4be865f253a6bb80da6fe09dfbb1c0baec59d
-docs/governance/ORR-REG-REL-001_INVENTORY-GUIDE.md,ORR-REG-REL-001,r02,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,d3c5e0e60c9a6db2e4d9aac924b4aab6a76a0c635415f4d6810f9b78c0b370bf
-docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv,ORR-REG-REL-001,r02,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,SELF
+docs/governance/ORR-REG-REL-001_INVENTORY-GUIDE.md,ORR-REG-REL-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,8720245c827b05ad7c7592c53e793ed0455749ee683234d4bc62c9a906f74066
+docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv,ORR-REG-REL-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,SELF
 docs/governance/ORR-STD-DOC-001_DOCUMENT-CONTROL.md,ORR-STD-DOC-001,r02,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,8d75e19cd813a13a042aa95e63abfbf99ec25d144e7ef9e44e4d7e57d852fa09
 docs/implementation/ORR-FRM-IMP-001_ADOPTION-ASSESSMENT.md,ORR-FRM-IMP-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,d2d696a543344c04c8b9b1384848c2c7f60f1ac52f21b936572aeb2184d7b84c
 docs/implementation/ORR-PLN-IMP-001_IMPLEMENTATION-PLAN.md,ORR-PLN-IMP-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,8f6ca2d022aa5a5b6b9e13280825f18f2004dcf2cb2a2222bf000e0ce38c07c7
 docs/implementation/ORR-SOP-IMP-001_IMPLEMENTATION-GUIDE.md,ORR-SOP-IMP-001,r03,Draft,CC-BY-4.0,Original AI-assisted project documentation/data; source review separate,32e90cd8ee1c2bb370b53a95e4da504919a2c0db5ac57b49b8eb4fc439f03a83
-scripts/check-release.py,Not-controlled,Not-applicable,Candidate,Apache-2.0,Original AI-assisted project code/configuration,87c6a6719c50b255ec2498406b4ac8cac150d550b2035a944b0fa6d59bc47b05
+scripts/check-release.py,Not-controlled,Not-applicable,Candidate,Apache-2.0,Original AI-assisted project code/configuration,df6744325ef3463d94ace9a440dbf7276e0c130abf76037b9fc456b67ebf0a11

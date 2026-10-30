@@ -18,7 +18,7 @@ INVENTORY = 'docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv'
 REVISIONS = {'ORR-STD-BRD-001': 'r03', 'ORR-FWK-REP-001': 'r03',
              'ORR-SOP-IMP-001': 'r03', 'ORR-FRM-IMP-001': 'r03',
              'ORR-PLN-IMP-001': 'r03', 'ORR-STD-DOC-001': 'r02',
-             'ORR-REG-REL-001': 'r02'}
+             'ORR-REG-REL-001': 'r03'}
 FIELDS = ['path', 'document_id', 'revision', 'status', 'licence', 'source_basis', 'sha256']
 
 def candidate_paths():

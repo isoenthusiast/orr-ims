@@ -2,14 +2,14 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-001 / REG / r02 |
+| Document ID / type / revision | ORR-REG-REL-001 / REG / r03 |
 | Status / prepared | Draft; not approved or effective / 2026-10-30 |
 | Scope / module / layer | Exact candidate files, not private working records / Release preparation, design-r01 / Layer 1 |
 | Custodian / author | Release controller, Unassigned / Codex at Edward Wee's request |
 | Reviewer / approver | Competent release reviewer, Unassigned / Product governance authority, Unassigned |
 | Classification / lifecycle | Public draft; organizational approval pending / Maintained schema; generated snapshot |
 | Basis | ORR-STD-DOC-001 r02; prepared under OIMS-STD-DOC-001 r05 |
-| Review trigger / supersedes / deviations | Any selected file, rights or status change / None / None |
+| Review trigger / supersedes / deviations | Any selected file, rights or status change / r02 retained in private history / None |
 
 ## Scope and authority
 
@@ -33,7 +33,7 @@ historical snapshots and source records are intentionally excluded.
 
 The release envelope retained with the audit hashes every file, including this
 CSV. That envelope resolves the self-hash exception. It proves file identity,
-not truth, ownership or suitability. The fixed snapshot revision is r02; any
+not truth, ownership or suitability. The fixed snapshot revision is r03; any
 later assessed revision requires a preserved predecessor and updated revision.
 
 ## Updating, access and retention
@@ -67,3 +67,10 @@ or approve organizational use. See [GOVERNANCE.md](../../GOVERNANCE.md).
 Earlier preparation/release-pending statements describe the retained drafting
 context; this decision controls public distribution only. Previous r01 bytes
 are retained in private history. Operational status remains Draft, not effective.
+
+## r03 — proposed introduction and maturity update
+
+2026-10-30: refresh inventory for README purpose and proposed documentation
+maturity criteria, requested by Edward Wee for the public project introduction.
+The criteria remain proposals, not a stable-release decision. The r02 publication
+decision remains historical evidence for its original selection.

@@ -1,7 +1,11 @@
 # ORR IMS — draft public edition
 
-Draft guidance, adoption templates and application design for an integrated
-management system. Start with the implementation documents below.
+**ORR IMS is an open-source integrated management system guidance project,
+providing practical guidance, reusable templates and examples to help implementers
+develop and improve their own management systems.**
+
+**Current status: Draft.** The content is under development and welcomes review
+and practical feedback. Start with the implementation documents below.
 
 **Compilation and application design led by [Edward Wee](https://www.linkedin.com/in/edwardbhwee/).**
 This credit covers this project's compilation, documentation structure and
@@ -46,6 +50,44 @@ application, approved operating instructions or a guarantee of certification.
 Retain useful existing processes and tools. Keep completed organizational records
 in private storage. All three documents are r03 Draft; review and approval remain
 pending.
+
+## Progressing beyond draft
+
+The proposed progression is **Draft → Release candidate → Stable documentation
+release**. These labels describe the maturity of the published guidance, not
+certification or approval of an organization using it.
+
+Before calling a defined documentation package stable, we propose to:
+
+1. **Define and complete the release scope.** List the processes, guides, forms
+   and examples included, their dependencies and exclusions. Provide usable
+   end-to-end coverage for that scope; do not imply the entire planned IMS exists.
+2. **Obtain competent review.** Have reviewers with relevant management-system
+   and implementation experience assess correctness, clarity, applicability and
+   source traceability. Keep author checks distinct from independent review.
+3. **Trial it with representative implementers.** Demonstrate that users can
+   assess their existing system, tailor a process, assign responsibilities, use
+   the forms and retrieve evidence. Exercise exceptions and record problems.
+   Label fictional demonstrations separately from real implementation evidence.
+4. **Resolve material findings.** Correct missing instructions, contradictions,
+   broken links and unusable forms; verify the fixes. Disposition source/rights
+   and naming issues with evidence, recording any remaining limitations.
+5. **Approve an exact version.** Record the maintainer's release decision against
+   the defined criteria, reviewed revisions and file inventory. Include release
+   notes, known limitations and guidance for adopters upgrading earlier versions.
+6. **Maintain it.** Assign document owners, a reporting route and review triggers;
+   preserve revision history and respond to corrections and source changes.
+
+A release candidate is a complete proposed package undergoing final validation.
+A stable documentation release is a reviewed, trialled and maintained baseline
+for its declared scope. Stability is earned through evidence, not simply elapsed
+time or removal of a Draft label. These maturity criteria are proposals for
+maintainer adoption; no review, pilot or stable-release decision is implied here.
+
+The future application has its own readiness criteria, including functional,
+security, privacy, migration and recovery testing. A stable documentation release
+does not require the app to exist. Each adopting organization still needs to
+authorize its own configuration and demonstrate operating effectiveness.
 
 ## Brand kit — draft
 
