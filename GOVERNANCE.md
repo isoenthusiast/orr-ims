@@ -132,3 +132,22 @@ open for this reduced selection; this decision does not close findings or grant
 third-party rights. Previously published history and licence grants are preserved.
 Local maintainer tools, working records and removed previews are excluded from
 this commit. Further additions require their own review and release decision.
+
+## 2026-11-01 — beginner learning publication decision
+
+Edward Wee instructed updating the public repository and pushing the reviewed
+content. The exact 66-file selection is recorded in ORR-REG-REL-002 r06 and
+ORR-REG-REL-001 r09. It adds 14 original r01 learning masters, 14 Word renditions,
+five Excel forms and navigation, covering five starter kits within four process
+identities. Other P01–P23 areas remain explicitly incomplete.
+
+The purchased commercial pack remains private and is not redistributed. Its
+coverage/usability influence is disclosed; this is not a clean-room or independent
+rights-clearance claim. The original-contribution licence applies only to rights
+held. PUB-R01–PUB-R06 and their mitigations remain open and relevant; this instruction
+authorizes draft distribution, not closure of rights, specialist or legal findings.
+Author checks of links, identities, fields, exports and release selection passed;
+real novice trials, Office layout review and independent review remain pending.
+No organizational approval, certification or operating effectiveness is asserted.
+Brand development, UX prototypes, source files, maintainer tools and private review
+records remain excluded under the previously agreed documentation-only scope.

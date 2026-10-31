@@ -2,7 +2,7 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-002 / REG / r04 |
+| Document ID / type / revision | ORR-REG-REL-002 / REG / r06 |
 | Prepared / status | 2026-11-01 / Draft — not approved or effective |
 | Scope / module / layer | Exact public candidate selection / Release preparation / Layer 1 |
 | Owner / actual appointment | Release controller / Unassigned |
@@ -14,7 +14,7 @@
 | Canonical / index | Paired publication JSON; this file is its guide; distribution inventory ORR-REG-REL-001; working preparation index retained privately |
 | Review trigger | Changed scope, source, authority, decision rule or user finding; before adoption |
 | Retention / access | Public blank/example only; real records stay in authorized private storage; preserve until actual schedule and holds are decided |
-| Supersedes / deviations | r03 retained in private history / None; renamed headings preserve type-profile content |
+| Supersedes / deviations | r05 retained before beginner publication / None; renamed headings preserve type-profile content |
 
 ## 1. Scope, custodian and identity
 
@@ -47,7 +47,7 @@ not permission grants. Unmodified licence texts have their separate allocation.
 | files[].publication_decision | Must match the register's current decision state |
 
 Canonical data: [publication register](ORR-REG-REL-002_PUBLICATION-REGISTER.json).
-Current state is `Authorized housekeeping draft publication; unresolved risks retained`. A future release-state change
+Current state is `Authorized beginner learning draft publication; unresolved risks retained`. A future release-state change
 requires an attributable decision and corresponding controlled revision, including
 updates to the locally retained checker's accepted state. Code cannot confer publication authority.
 
@@ -104,3 +104,17 @@ this changed candidate. No third-party rights or organizational approval implied
 instructed staging, committing and pushing. This authorizes the 32-file draft
 selection and its publication-state updates. Recorded unresolved risks and
 organizational approval limits remain unchanged. Prior r03 is retained privately.
+
+## r05 — beginner-kit candidate
+
+2026-11-01: add the beginner pathway, scoped process catalogue, five connected kits,
+fictional case, acceptance protocol and editable editions. Earlier exact r04 bytes
+are preserved privately. Publication pending; previous authorization and risk
+acceptance are not extended automatically. Author checks are not independent review.
+
+## r06 — authorized beginner learning publication
+
+2026-11-01: Edward Wee explicitly instructed updating and pushing the public
+repository. This records distribution authorization for the reviewed 66-file
+selection, retaining draft labels and unresolved risks. Prior r05 preserved
+privately. No independent clearance or organizational effectiveness is implied.

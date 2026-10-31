@@ -27,6 +27,7 @@ Two ISO reference mappings remain expressly unverified proposals.
 
 ## Templates and adoption
 
+- [Beginner pathway and first five connected process kits](docs/templates/beginner/README.md) — draft learning release, with Word/Excel editions and a fictional chemical-company journey
 - [Twelve document-type templates and examples](docs/templates/README.md)
 - [Implementation guide](docs/implementation/ORR-SOP-IMP-001_IMPLEMENTATION-GUIDE.md)
 - [Adoption assessment](docs/implementation/ORR-FRM-IMP-001_ADOPTION-ASSESSMENT.md)
@@ -55,5 +56,6 @@ for operational use.
 Brand development, application architecture/data previews, maintainer scripts and
 working audit evidence are outside this documentation scope and retained locally.
 Earlier Git history remains available; this cleanup does not erase prior releases.
-Edward Wee authorized this 32-file housekeeping release on 2026-11-01.
+Edward Wee authorized the earlier 32-file housekeeping release on 2026-11-01.
+Edward Wee authorized the reviewed 66-file beginner learning release on 2026-11-01.
 The documented residual risks remain open; organizational status remains Draft.

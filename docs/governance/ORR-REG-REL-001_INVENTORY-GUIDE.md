@@ -2,14 +2,14 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-001 / REG / r07 |
+| Document ID / type / revision | ORR-REG-REL-001 / REG / r09 |
 | Status / prepared | Draft; not approved or effective / 2026-11-01 |
 | Scope / module / layer | Exact candidate files, not private working records / Release preparation, design-r01 / Layer 1 |
 | Custodian / author | Release controller, Unassigned / Codex at Edward Wee's request |
 | Reviewer / approver | Competent release reviewer, Unassigned / Product governance authority, Unassigned |
 | Classification / lifecycle | Public draft; organizational approval pending / Maintained schema; generated snapshot |
 | Basis | ORR-STD-DOC-001 r02; prepared under OIMS-STD-DOC-001 r05 |
-| Review trigger / supersedes / deviations | Any selected file, rights or status change / r06 retained in private history / None |
+| Review trigger / supersedes / deviations | Any selected file, rights or status change / r08 retained before beginner publication / None |
 
 ## Scope and authority
 
@@ -104,3 +104,17 @@ this snapshot does not renew the earlier risk acceptance.
 2026-11-01: capture Edward Wee's explicit instruction to stage, commit and push
 the 32-file documentation selection. Earlier r06 is preserved. This decision
 authorizes draft distribution, not organizational use or legal clearance.
+
+## r08 — beginner-kit candidate
+
+2026-11-01: add the beginner pathway, scoped process catalogue, five connected kits,
+fictional case, acceptance protocol and editable editions. Earlier exact r07 bytes
+are preserved privately. Publication pending; previous authorization and risk
+acceptance are not extended automatically. Author checks are not independent review.
+
+## r09 — authorized beginner learning publication
+
+2026-11-01: Edward Wee explicitly instructed updating and pushing the public
+repository. This records distribution authorization for the reviewed 66-file
+selection, retaining draft labels and unresolved risks. Prior r08 preserved
+privately. No independent clearance or organizational effectiveness is implied.

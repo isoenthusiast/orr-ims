@@ -1,5 +1,10 @@
 # Original ORR-IMS learning templates
 
+For a first implementation, start with the [beginner pathway and connected process
+kits](beginner/README.md). The beginner draft release adds five procedures, blank
+worksheets, editable editions and one fictional chemical-company journey. The
+twelve-type teaching set below remains unchanged; neither set completes P01–P23.
+
 **Public learning release — Draft.** Twelve original document-type demonstrations
 support one bounded concern-to-action learning workflow. This is not a complete
 P01–P23 implementation library, an exhaustive ISO mapping or an operational system.

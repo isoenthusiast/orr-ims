@@ -7,7 +7,7 @@ his original contributions. This notice claims no ownership of third-party work.
 
 | Material in this repository | Licence |
 |---|---|
-| Original Markdown documentation and original template/register/example data (JSON/CSV) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| Original Markdown documentation, editable Word/Excel renditions and original template/register/example data (JSON/CSV) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | Repository configuration; code/design assets in earlier releases retain their original allocation | [Apache-2.0](LICENSES/Apache-2.0.txt) |
 | Generated release inventory | CC BY 4.0 |
 | Licence texts | Unmodified texts of the respective licences; not relicensed by this notice |
