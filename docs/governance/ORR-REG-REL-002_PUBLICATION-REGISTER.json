@@ -1,13 +1,13 @@
 {
   "document_id": "ORR-REG-REL-002",
-  "revision": "r02",
+  "revision": "r04",
   "status": "Draft",
-  "prepared_date": "2026-10-31",
+  "prepared_date": "2026-11-01",
   "custodian_role": "Release controller",
   "actual_custodian": "Unassigned",
   "author": "Codex at Edward Wee's request",
   "reviewer": "Author review only; independent reviewer unassigned",
-  "publication_decision": "Authorized draft publication; unresolved risks retained",
+  "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained",
   "source_rights_scope": "Explicit selection with per-file provenance and limitations, not legal clearance",
   "sources": {
     "owner-direction": {
@@ -89,7 +89,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "AUTHORS.md",
@@ -105,7 +105,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -121,7 +121,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "GOVERNANCE.md",
@@ -142,7 +142,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "LICENSES/Apache-2.0.txt",
@@ -157,7 +157,7 @@
       "third_party_content": "The respective publisher licence text; not claimed as project original content",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Exact baseline bytes preserved; this row does not license referenced standards or trademarks",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "LICENSES/CC-BY-4.0.txt",
@@ -172,7 +172,7 @@
       "third_party_content": "The respective publisher licence text; not claimed as project original content",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Exact baseline bytes preserved; this row does not license referenced standards or trademarks",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "LICENSING.md",
@@ -188,7 +188,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "NOTICE.md",
@@ -209,7 +209,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "README.md",
@@ -225,7 +225,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "SECURITY.md",
@@ -241,7 +241,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "SOURCES.md",
@@ -262,163 +262,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_BRAND-GUIDE.md",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "CC-BY-4.0",
-      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_BRAND-PREVIEW.html",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_BUILD-ASSETS.py",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_CONTRAST.csv",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_PALETTE.csv",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_TOKENS.css",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "brand/ORR-STD-BRD-001_TOKENS.json",
-      "document_id": "ORR-STD-BRD-001",
-      "revision": "r03",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
-      "source_refs": [
-        "owner-direction",
-        "project-design",
-        "w3c-guidance"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "docs/ORR-FWK-REP-001_FICTIONAL-DATA.json",
-      "document_id": "ORR-FWK-REP-001",
-      "revision": "r03",
-      "licence": "CC-BY-4.0",
-      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
-      "source_refs": [
-        "owner-direction",
-        "project-design"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "docs/ORR-FWK-REP-001_REPOSITORY-BLUEPRINT.md",
-      "document_id": "ORR-FWK-REP-001",
-      "revision": "r03",
-      "licence": "CC-BY-4.0",
-      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
-      "source_refs": [
-        "owner-direction",
-        "project-design"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-001_INVENTORY-GUIDE.md",
       "document_id": "ORR-REG-REL-001",
-      "revision": "r05",
+      "revision": "r07",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -429,12 +278,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv",
       "document_id": "ORR-REG-REL-001",
-      "revision": "r05",
+      "revision": "r07",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -445,12 +294,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-002_PUBLICATION-GUIDE.md",
       "document_id": "ORR-REG-REL-002",
-      "revision": "r02",
+      "revision": "r04",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -461,12 +310,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-002_PUBLICATION-REGISTER.json",
       "document_id": "ORR-REG-REL-002",
-      "revision": "r02",
+      "revision": "r04",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -477,7 +326,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-STD-DOC-001_DOCUMENT-CONTROL.md",
@@ -493,7 +342,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/implementation/ORR-FRM-IMP-001_ADOPTION-ASSESSMENT.md",
@@ -509,7 +358,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/implementation/ORR-PLN-IMP-001_IMPLEMENTATION-PLAN.md",
@@ -525,12 +374,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/implementation/ORR-SOP-IMP-001_IMPLEMENTATION-GUIDE.md",
       "document_id": "ORR-SOP-IMP-001",
-      "revision": "r03",
+      "revision": "r04",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -541,7 +390,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-ASP-GEN-001_SCOPED-ASSURANCE-PROTOCOL.md",
@@ -557,7 +406,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-FRM-GEN-001_CONCERN-FORM.md",
@@ -573,7 +422,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-FWK-GEN-001_LEARNING-FRAMEWORK.md",
@@ -591,7 +440,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-PLN-GEN-001_LEARNING-PILOT-PLAN.md",
@@ -607,7 +456,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-POL-GEN-001_EVIDENCE-POLICY.md",
@@ -623,7 +472,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-PRO-GEN-001_CONCERN-TO-ASSURANCE.md",
@@ -639,7 +488,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-REC-GEN-001_FICTIONAL-DECISION-RECORD.md",
@@ -655,7 +504,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-REG-GEN-001_ACTION-REGISTER.md",
@@ -671,7 +520,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-RPT-GEN-001_FICTIONAL-ASSURANCE-REPORT.md",
@@ -687,7 +536,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-SOP-GEN-001_ASSESS-AND-DECIDE.md",
@@ -703,7 +552,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-STD-GEN-001_ORIGINAL-REQUIREMENTS.md",
@@ -720,7 +569,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; two proposed mapping rows remain unverified and cannot support a conformity claim",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-WI-GEN-001_REVIEW-CLOSURE-EVIDENCE.md",
@@ -736,7 +585,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/README.md",
@@ -752,42 +601,10 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "scripts/check-release.py",
-      "document_id": "Not-controlled",
-      "revision": "Not-applicable",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
-      "source_refs": [
-        "owner-direction",
-        "project-design"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
-    },
-    {
-      "path": "scripts/test_release.py",
-      "document_id": "Not-controlled",
-      "revision": "Not-applicable",
-      "licence": "Apache-2.0",
-      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
-      "source_refs": [
-        "owner-direction",
-        "project-design"
-      ],
-      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
-      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
-      "author_review": "Author-reviewed within stated limits",
-      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized draft publication; unresolved risks retained"
+      "publication_decision": "Authorized housekeeping draft publication; unresolved risks retained"
     }
   ],
-  "decision_record": "GOVERNANCE.md — Accepted publication risks and mitigations — 2026-10-31",
+  "decision_record": "GOVERNANCE.md — 2026-11-01 housekeeping publication decision",
   "accepted_risk_ids": [
     "PUB-R01",
     "PUB-R02",

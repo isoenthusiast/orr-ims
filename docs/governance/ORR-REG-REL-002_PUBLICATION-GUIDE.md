@@ -2,8 +2,8 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-002 / REG / r02 |
-| Prepared / status | 2026-10-31 / Draft — not approved or effective |
+| Document ID / type / revision | ORR-REG-REL-002 / REG / r04 |
+| Prepared / status | 2026-11-01 / Draft — not approved or effective |
 | Scope / module / layer | Exact public candidate selection / Release preparation / Layer 1 |
 | Owner / actual appointment | Release controller / Unassigned |
 | Author | Codex at Edward Wee's request; AI-assisted original project drafting |
@@ -14,7 +14,7 @@
 | Canonical / index | Paired publication JSON; this file is its guide; distribution inventory ORR-REG-REL-001; working preparation index retained privately |
 | Review trigger | Changed scope, source, authority, decision rule or user finding; before adoption |
 | Retention / access | Public blank/example only; real records stay in authorized private storage; preserve until actual schedule and holds are decided |
-| Supersedes / deviations | r01 retained in private history / None; renamed headings preserve type-profile content |
+| Supersedes / deviations | r03 retained in private history / None; renamed headings preserve type-profile content |
 
 ## 1. Scope, custodian and identity
 
@@ -47,9 +47,9 @@ not permission grants. Unmodified licence texts have their separate allocation.
 | files[].publication_decision | Must match the register's current decision state |
 
 Canonical data: [publication register](ORR-REG-REL-002_PUBLICATION-REGISTER.json).
-Current state is `Authorized draft publication; unresolved risks retained`. A future release-state change
+Current state is `Authorized housekeeping draft publication; unresolved risks retained`. A future release-state change
 requires an attributable decision and corresponding controlled revision, including
-updates to the checker's accepted state. Code cannot confer publication authority.
+updates to the locally retained checker's accepted state. Code cannot confer publication authority.
 
 The owner-confirmed original-contribution authority is a provenance input, not an
 independent ownership opinion. Initial rows are author-reviewed within the stated
@@ -64,7 +64,7 @@ retain its exact scope and evidence privately and publish only an appropriate
 reference; do not declare it obtained without evidence. Private or restricted
 content is not an eligible default. Unknown rights need scoped resolution or
 exclusion, not an inferred licence. Revalidate changed dependencies and preserve
-prior versions before material revisions. The checker rejects undeclared paths,
+prior versions before material revisions. The locally retained checker rejects undeclared paths,
 missing review decisions, unsafe paths and inconsistent metadata/licences.
 
 ## 4. Retrieval, release and retention
@@ -89,3 +89,18 @@ this reviewed learning draft with its stated unresolved limitations. This is a
 scoped distribution decision, not full compliance-audit acceptance or a grant of
 third-party rights. Prior r01 bytes and findings remain retained privately.
 See [governance](../../GOVERNANCE.md) for the current decision.
+
+## r03 — scoped housekeeping
+
+2026-11-01: retain 32 files for standards, templates and protective governance.
+Eleven brand/application/tooling files are retained outside the current public
+selection. Prior r02 is preserved. Historical licence grants and accepted risks
+remain recorded; the earlier publication decision does not automatically cover
+this changed candidate. No third-party rights or organizational approval implied.
+
+## r04 — housekeeping publication authorized
+
+2026-11-01: Edward Wee accepted the reviewed housekeeping selection and explicitly
+instructed staging, committing and pushing. This authorizes the 32-file draft
+selection and its publication-state updates. Recorded unresolved risks and
+organizational approval limits remain unchanged. Prior r03 is retained privately.

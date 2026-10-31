@@ -2,8 +2,8 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-SOP-IMP-001 / SOP / r03 |
-| Status / prepared | Draft; not approved or effective / 2026-10-30 |
+| Document ID / type / revision | ORR-SOP-IMP-001 / SOP / r04 |
+| Status / prepared | Draft; not approved or effective / 2026-11-01 |
 | Scope / layer | Reusable adoption guidance; Layer 1, for future organization-specific configuration |
 | Module | Implementation support / design-r01 unreleased |
 | Owner / author | Implementation lead, Unassigned / Codex at Edward Wee's request |
@@ -11,7 +11,7 @@
 | Classification / lifecycle | Public draft; organizational approval pending / Maintained |
 | Review trigger | Before adoption; material scope, source, workflow or product changes |
 | Canonical location | This file; candidate inventory ORR-REG-REL-001 |
-| Basis / supersedes / deviations | OIMS-STD-DOC-001 r05; public basis ORR-STD-DOC-001 r02 / r02 retained locally / None |
+| Basis / supersedes / deviations | OIMS-STD-DOC-001 r05; public basis ORR-STD-DOC-001 r02 / r03 retained in private housekeeping snapshot / None |
 
 ## 1. Purpose and scope
 
@@ -146,7 +146,9 @@ sought, needs its own agreed scope and independent assessment arrangements.
 ## 7. Sources, attribution and change history
 
 Original project guidance based on Edward Wee's requested adoption journey and
-the [repository blueprint](../ORR-FWK-REP-001_REPOSITORY-BLUEPRINT.md), r03.
+the historical repository blueprint ORR-FWK-REP-001 r03, now retained outside
+the current public documentation selection; this preserves provenance, not a
+requirement for readers to retrieve that design.
 Document structure follows OIMS-STD-DOC-001 r05 as a private authoring dependency;
 that dependency is not included or cleared for redistribution by this guide.
 A self-contained public control draft now accompanies this guide; competent
@@ -174,3 +176,9 @@ or approve organizational use. See [GOVERNANCE.md](../../GOVERNANCE.md).
 Earlier preparation/release-pending statements describe the retained drafting
 context; this decision controls public distribution only. Previous r02 bytes
 are retained in private history. Operational status remains Draft, not effective.
+
+## r04 — documentation-scope navigation
+
+2026-11-01: preserve the historical application-design source reference without
+a link to the removed preview. Adoption instructions are unchanged. Prior r03
+is preserved; this housekeeping revision is Draft, pending publication.

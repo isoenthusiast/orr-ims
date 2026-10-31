@@ -35,11 +35,12 @@ not include a normative clause catalogue or establish conformance. Historical
 private source references are provenance, not public redistribution authority.
 See [ISO's published licensing terms](https://www.iso.org/terms-conditions-licence-agreement.html).
 
-The brand kit uses selected W3C explanatory guidance for
+Earlier releases included a brand kit using selected W3C explanatory guidance for
 [text contrast](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html),
 [non-text contrast](https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html)
 and [use of colour](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html).
-No W3C text or graphics are bundled; selected checks do not establish full WCAG
+The brand kit is now outside this documentation selection. No W3C text or graphics
+are bundled; historical selected checks do not establish full WCAG
 conformance.
 
 ## Project contributions

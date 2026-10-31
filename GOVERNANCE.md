@@ -14,8 +14,9 @@ and the separate applicability of historical standards-processing terms. No
 specific publisher republication-permission requirement was identified in the
 earlier 27-file candidate review; that is a bounded finding, not comprehensive legal clearance.
 
-This edition contains draft documentation, fictional data and a local brand
-preview/builder. It is not an operating IMS, certification service or deployable
+The current housekeeping selection contains draft standards, templates and
+protective governance; previous brand/application previews are retained locally.
+It is not an operating IMS, certification service or deployable
 application. Controlled document reviewers and organizational approvers remain
 unassigned. Codex performed author-led checks; these are not independent audits.
 Public availability does not make a draft an effective organizational instruction.
@@ -100,3 +101,34 @@ author checks recorded against exact bytes. Planned external reviews are not
 implemented mitigations or proof of effectiveness. The detailed private author
 report remains preserved with its original open findings; this subsequent
 acceptance records the distribution decision without rewriting that evidence.
+
+## 2026-11-01 — documentation-scope housekeeping candidate
+
+Edward requested that the public scope cover ORR IMS definitions/standards,
+templates, and governance relevant to rights and legal-risk protection. Eleven
+brand, application-preview and maintainer-script files are removed from the
+current candidate and retained in ignored local storage. Thirty-two files remain.
+The source/rights register and exact release inventory remain because they identify
+the content and licence boundaries underlying the publication records.
+
+This is local preparation; the earlier 43-file publication and its risk acceptance
+remain historical decisions for their original versions. No earlier finding is
+closed and no licence already granted is withdrawn by this cleanup. The six
+publication risks and their stated limits remain relevant; operating controls and
+specialist review are not inferred. A new exact release decision is still pending.
+Git history is preserved. Moving material out of the current tree does not remove
+earlier public copies or provide confidentiality for previously published content.
+
+## 2026-11-01 — housekeeping publication decision
+
+Edward Wee accepted the housekeeping selection and explicitly instructed staging,
+committing and pushing it. This supersedes the pending distribution state in the
+preceding housekeeping section for the 32-file selection recorded in
+ORR-REG-REL-002 r04 and ORR-REG-REL-001 r07. The twelve learning masters and retained
+standards/templates remain Draft.
+
+The existing PUB-R01–PUB-R06 residual risks and mitigations remain applicable and
+open for this reduced selection; this decision does not close findings or grant
+third-party rights. Previously published history and licence grants are preserved.
+Local maintainer tools, working records and removed previews are excluded from
+this commit. Further additions require their own review and release decision.

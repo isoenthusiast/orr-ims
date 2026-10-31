@@ -21,3 +21,10 @@ __pycache__/
 *.db-shm
 *.mp3
 *.wav
+
+# Public scope: standards, templates and protective governance.
+# Retired public assets are retained under ignored local maintainer storage.
+/brand/
+/scripts/
+/docs/ORR-FWK-REP-001_REPOSITORY-BLUEPRINT.md
+/docs/ORR-FWK-REP-001_FICTIONAL-DATA.json

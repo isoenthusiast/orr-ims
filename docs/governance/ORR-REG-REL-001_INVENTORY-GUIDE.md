@@ -2,14 +2,14 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-001 / REG / r05 |
-| Status / prepared | Draft; not approved or effective / 2026-10-31 |
+| Document ID / type / revision | ORR-REG-REL-001 / REG / r07 |
+| Status / prepared | Draft; not approved or effective / 2026-11-01 |
 | Scope / module / layer | Exact candidate files, not private working records / Release preparation, design-r01 / Layer 1 |
 | Custodian / author | Release controller, Unassigned / Codex at Edward Wee's request |
 | Reviewer / approver | Competent release reviewer, Unassigned / Product governance authority, Unassigned |
 | Classification / lifecycle | Public draft; organizational approval pending / Maintained schema; generated snapshot |
 | Basis | ORR-STD-DOC-001 r02; prepared under OIMS-STD-DOC-001 r05 |
-| Review trigger / supersedes / deviations | Any selected file, rights or status change / r04 retained in private history / None |
+| Review trigger / supersedes / deviations | Any selected file, rights or status change / r06 retained in private history / None |
 
 ## Scope and authority
 
@@ -33,13 +33,14 @@ historical snapshots and source records are intentionally excluded.
 
 The release envelope retained with the audit hashes every file, including this
 CSV. That envelope resolves the self-hash exception. It proves file identity,
-not truth, ownership or suitability. The fixed snapshot revision is r05; any
+not truth, ownership or suitability. The fixed snapshot revision is r07; any
 later assessed revision requires a preserved predecessor and updated revision.
 
 ## Updating, access and retention
 
-Generate with `python3 scripts/check-release.py --write-inventory`, then verify
-with `python3 scripts/check-release.py`. Do not edit CSV rows manually. Adding a
+The maintainer generates and verifies this view using locally retained release
+tooling. Readers do not need that tooling to use the templates. Do not edit CSV
+rows manually. Adding a
 controlled identity requires the maintainer to register its master, owner,
 review state and source basis before updating this view. Reconcile every path,
 identity and revision; unsupported formats or unknown identities fail the check.
@@ -90,3 +91,16 @@ draft with the recorded unresolved risks retained. This revision captures the
 publication decision and associated navigation/register updates; template masters
 are unchanged. Prior r04 is preserved privately. Organizational status remains
 Draft, not effective; no independent legal clearance is implied.
+
+## r06 — documentation-only candidate
+
+2026-11-01: reduce selection to 32 files supporting standards, templates and
+protective governance. Brand/application previews and maintainer scripts remain
+locally retained; exact prior r05 evidence is preserved. Publication pending;
+this snapshot does not renew the earlier risk acceptance.
+
+## r07 — authorized housekeeping distribution
+
+2026-11-01: capture Edward Wee's explicit instruction to stage, commit and push
+the 32-file documentation selection. Earlier r06 is preserved. This decision
+authorizes draft distribution, not organizational use or legal clearance.

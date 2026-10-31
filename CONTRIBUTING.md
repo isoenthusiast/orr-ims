@@ -12,7 +12,8 @@ Disclose AI assistance and the sources needed to assess a contribution's rights.
 For controlled documents follow the
 [document-control draft](docs/governance/ORR-STD-DOC-001_DOCUMENT-CONTROL.md):
 preserve identity, revision, history, sources, draft status and evidence needs.
-For brand changes edit the token master and run the paired builder with `--check`.
+Brand development and application/tooling changes are outside this public
+documentation scope. The maintainer retains release-check tooling locally.
 Record what was tested; do not equate a local check with independent assurance.
 
 The maintainer reviews content, rights, applicability, compatibility and evidence

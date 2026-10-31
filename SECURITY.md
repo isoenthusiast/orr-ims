@@ -1,7 +1,7 @@
 # Security, privacy and reporting
 
-This candidate is documentation with a local static brand preview and a Python
-asset builder. No hosted IMS, user database, telemetry or production service is
+This candidate contains standards, templates and protective governance.
+Maintainer tools and design previews are excluded from the current selection. No hosted IMS, user database, telemetry or production service is
 provided. No supported production versions or response-time commitments exist.
 
 Do not place credentials, client information, real risk/incident records or
