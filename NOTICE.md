@@ -13,6 +13,5 @@ is asserted. No publisher logos, certification marks, downloaded publications,
 commercial plugins or client records form part of this candidate.
 
 The name ORR IMS is provisional. This notice does not claim trademark registration
-or clearance, nor grant trademark rights. Public draft availability, if later
-authorized, is not organizational approval, certification or proof of effective
+or clearance, nor grant trademark rights. Public draft availability is not organizational approval, certification or proof of effective
 operation. Consult [LICENSING.md](LICENSING.md) for the current rights disposition.

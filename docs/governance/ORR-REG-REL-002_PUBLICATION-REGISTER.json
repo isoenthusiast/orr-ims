@@ -1,0 +1,799 @@
+{
+  "document_id": "ORR-REG-REL-002",
+  "revision": "r02",
+  "status": "Draft",
+  "prepared_date": "2026-10-31",
+  "custodian_role": "Release controller",
+  "actual_custodian": "Unassigned",
+  "author": "Codex at Edward Wee's request",
+  "reviewer": "Author review only; independent reviewer unassigned",
+  "publication_decision": "Authorized draft publication; unresolved risks retained",
+  "source_rights_scope": "Explicit selection with per-file provenance and limitations, not legal clearance",
+  "sources": {
+    "owner-direction": {
+      "kind": "Project provenance",
+      "reference": "Edward Wee user directions; original-contribution authority and licence selection confirmed 2026-10-30",
+      "limit": "Personal authority declaration; no independent ownership or employer/commissioning-contract determination"
+    },
+    "project-design": {
+      "kind": "Project provenance",
+      "reference": "Original AI-assisted project design; SOURCES.md and AUTHORS.md",
+      "limit": "Earlier private source-processing history remains unresolved; new wording does not erase it"
+    },
+    "learning-starter": {
+      "kind": "Project provenance",
+      "reference": "2026-10-31 original twelve-type concern/action learning example; ORR-STD-DOC-001 r02",
+      "limit": "No restricted source PDF or converted standard text used as input for this addition; no comprehensive external-source similarity comparison"
+    },
+    "iso-copyright": {
+      "kind": "Reference only",
+      "url": "https://www.iso.org/copyright.html",
+      "checked": "2026-10-31",
+      "limit": "Publisher statement; not permission or legal determination"
+    },
+    "iso-terms": {
+      "kind": "Reference only",
+      "url": "https://www.iso.org/terms-conditions-licence-agreement.html",
+      "checked": "2026-10-31",
+      "limit": "Actual applicable contract, acts, dates and permissions require separate assessment"
+    },
+    "iso-name": {
+      "kind": "Reference only",
+      "url": "https://www.iso.org/iso-name-and-logo.html",
+      "checked": "2026-10-31",
+      "limit": "Fair reference guidance; no project-name clearance"
+    },
+    "iso-proposed-pointers": {
+      "kind": "Unverified bibliographic pointers",
+      "reference": "ISO 9001:2015, 7.5.2, 7.5.3 and 10.2",
+      "limit": "Not verified mappings; no clause text included; exact relationship and applicable edition/amendments pending"
+    },
+    "iogp-attribution": {
+      "kind": "Attribution only",
+      "url": "https://www.iogp.org/workstreams/safety/safety/managementsystems/",
+      "limit": "IOGP/IPIECA framing acknowledged; no source publication or graphics included and no redistribution permission inferred"
+    },
+    "orca-attribution": {
+      "kind": "Prior-use attribution only",
+      "url": "https://auditmagazine.nl/artikelen/heineken-business-framework-een-grc-casus/",
+      "limit": "Prior use, not first authorship or ownership determination; source article/graphics not included"
+    },
+    "w3c-guidance": {
+      "kind": "Reference only",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "limit": "Original calculation code and palette; selected contrast checks only; no full accessibility assurance"
+    },
+    "apache-text": {
+      "kind": "Licence text",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "limit": "Unchanged from retained baseline; supplied as licence text, not project-owned work"
+    },
+    "cc-text": {
+      "kind": "Licence text",
+      "url": "https://creativecommons.org/licenses/by/4.0/legalcode.txt",
+      "limit": "Unchanged from retained baseline; supplied as licence text, not project-owned work"
+    }
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "AUTHORS.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "iso-copyright",
+        "iso-terms",
+        "iso-name",
+        "iogp-attribution",
+        "orca-attribution"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "LICENSES/Apache-2.0.txt",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "Licence-text",
+      "origin": "Unmodified publisher licence text retained from baseline",
+      "source_refs": [
+        "apache-text"
+      ],
+      "rights_basis": "Included to convey the applicable licence; no relicensing or ownership claim",
+      "third_party_content": "The respective publisher licence text; not claimed as project original content",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Exact baseline bytes preserved; this row does not license referenced standards or trademarks",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.txt",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "Licence-text",
+      "origin": "Unmodified publisher licence text retained from baseline",
+      "source_refs": [
+        "cc-text"
+      ],
+      "rights_basis": "Included to convey the applicable licence; no relicensing or ownership claim",
+      "third_party_content": "The respective publisher licence text; not claimed as project original content",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Exact baseline bytes preserved; this row does not license referenced standards or trademarks",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "LICENSING.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "NOTICE.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "iso-copyright",
+        "iso-terms",
+        "iso-name",
+        "iogp-attribution",
+        "orca-attribution"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "README.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "SECURITY.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "SOURCES.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "iso-copyright",
+        "iso-terms",
+        "iso-name",
+        "iogp-attribution",
+        "orca-attribution"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_BRAND-GUIDE.md",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_BRAND-PREVIEW.html",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_BUILD-ASSETS.py",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_CONTRAST.csv",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_PALETTE.csv",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_TOKENS.css",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "brand/ORR-STD-BRD-001_TOKENS.json",
+      "document_id": "ORR-STD-BRD-001",
+      "revision": "r03",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project brand design/calculation assets from user-selected direction",
+      "source_refs": [
+        "owner-direction",
+        "project-design",
+        "w3c-guidance"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; provisional ORR IMS name, no trademark clearance and no custom logo included",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/ORR-FWK-REP-001_FICTIONAL-DATA.json",
+      "document_id": "ORR-FWK-REP-001",
+      "revision": "r03",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/ORR-FWK-REP-001_REPOSITORY-BLUEPRINT.md",
+      "document_id": "ORR-FWK-REP-001",
+      "revision": "r03",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/governance/ORR-REG-REL-001_INVENTORY-GUIDE.md",
+      "document_id": "ORR-REG-REL-001",
+      "revision": "r05",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv",
+      "document_id": "ORR-REG-REL-001",
+      "revision": "r05",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/governance/ORR-REG-REL-002_PUBLICATION-GUIDE.md",
+      "document_id": "ORR-REG-REL-002",
+      "revision": "r02",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/governance/ORR-REG-REL-002_PUBLICATION-REGISTER.json",
+      "document_id": "ORR-REG-REL-002",
+      "revision": "r02",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/governance/ORR-STD-DOC-001_DOCUMENT-CONTROL.md",
+      "document_id": "ORR-STD-DOC-001",
+      "revision": "r02",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/implementation/ORR-FRM-IMP-001_ADOPTION-ASSESSMENT.md",
+      "document_id": "ORR-FRM-IMP-001",
+      "revision": "r03",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/implementation/ORR-PLN-IMP-001_IMPLEMENTATION-PLAN.md",
+      "document_id": "ORR-PLN-IMP-001",
+      "revision": "r03",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/implementation/ORR-SOP-IMP-001_IMPLEMENTATION-GUIDE.md",
+      "document_id": "ORR-SOP-IMP-001",
+      "revision": "r03",
+      "licence": "CC-BY-4.0",
+      "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-ASP-GEN-001_SCOPED-ASSURANCE-PROTOCOL.md",
+      "document_id": "ORR-ASP-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-FRM-GEN-001_CONCERN-FORM.md",
+      "document_id": "ORR-FRM-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-FWK-GEN-001_LEARNING-FRAMEWORK.md",
+      "document_id": "ORR-FWK-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter",
+        "orca-attribution",
+        "iogp-attribution"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-PLN-GEN-001_LEARNING-PILOT-PLAN.md",
+      "document_id": "ORR-PLN-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-POL-GEN-001_EVIDENCE-POLICY.md",
+      "document_id": "ORR-POL-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-PRO-GEN-001_CONCERN-TO-ASSURANCE.md",
+      "document_id": "ORR-PRO-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-REC-GEN-001_FICTIONAL-DECISION-RECORD.md",
+      "document_id": "ORR-REC-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-REG-GEN-001_ACTION-REGISTER.md",
+      "document_id": "ORR-REG-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-RPT-GEN-001_FICTIONAL-ASSURANCE-REPORT.md",
+      "document_id": "ORR-RPT-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-SOP-GEN-001_ASSESS-AND-DECIDE.md",
+      "document_id": "ORR-SOP-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-STD-GEN-001_ORIGINAL-REQUIREMENTS.md",
+      "document_id": "ORR-STD-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter",
+        "iso-proposed-pointers"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; two proposed mapping rows remain unverified and cannot support a conformity claim",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/ORR-WI-GEN-001_REVIEW-CLOSURE-EVIDENCE.md",
+      "document_id": "ORR-WI-GEN-001",
+      "revision": "r01",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "docs/templates/README.md",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "CC-BY-4.0",
+      "origin": "New original AI-assisted learning example from user-defined document types and general concern/action workflow",
+      "source_refs": [
+        "owner-direction",
+        "learning-starter"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "scripts/check-release.py",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    },
+    {
+      "path": "scripts/test_release.py",
+      "document_id": "Not-controlled",
+      "revision": "Not-applicable",
+      "licence": "Apache-2.0",
+      "origin": "Original AI-assisted project code/configuration; no third-party dependency code bundled",
+      "source_refs": [
+        "owner-direction",
+        "project-design"
+      ],
+      "rights_basis": "Edward Wee confirmed personal authority for original contributions; grant limited to rights held, to the extent copyright subsists; excludes third-party works and trademarks",
+      "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
+      "author_review": "Author-reviewed within stated limits",
+      "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
+      "publication_decision": "Authorized draft publication; unresolved risks retained"
+    }
+  ],
+  "decision_record": "GOVERNANCE.md — Accepted publication risks and mitigations — 2026-10-31",
+  "accepted_risk_ids": [
+    "PUB-R01",
+    "PUB-R02",
+    "PUB-R03",
+    "PUB-R04",
+    "PUB-R05",
+    "PUB-R06"
+  ]
+}

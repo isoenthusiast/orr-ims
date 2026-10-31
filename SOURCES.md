@@ -49,3 +49,29 @@ and AI-assistance disclosure. Original project wording, examples and code remain
 subject to the [licensing disposition](LICENSING.md). Acknowledgment does not
 resolve a source-use or rights issue. These source links were checked during the
 2026-10-30 author-led release-readiness review; legal clearance remains separate.
+
+
+## Original learning starter and reference-only mappings
+
+The twelve templates are newly authored examples of the project's document types
+and concern/action workflow. No restricted source PDF or converted standards text
+was used as an input for this addition. That method does not erase or resolve the
+separately recorded historical provenance of the project's existing material.
+ORR-REQ-GEN identifiers are original project rules; the two ISO cross-reference
+rows are proposals containing bibliographic identifiers only, not verified
+normative coverage. Lawful source access, edition/amendment applicability,
+permitted review methods and a competent mapping rationale are required before
+claiming more. No comprehensive source-similarity or legal clearance is asserted.
+
+ISO's [copyright policy](https://www.iso.org/copyright.html) and
+[licence terms](https://www.iso.org/terms-conditions-licence-agreement.html)
+were checked on 2026-10-31. They state restrictions on reproduction and AI-related
+use. Actual contracts and permissions must be assessed against the relevant acts
+and dates; no retrospective breach or permission is inferred. AI rewording is not
+a rights-clearance method. Fair reference to standards is distinguished from
+publisher branding in [ISO's name guidance](https://www.iso.org/iso-name-and-logo.html).
+
+The private comprehensive duty catalogue and associated source-derived methods
+were not exported. Their presence in private development is not proof of
+redistribution rights. Publisher permissions, where needed, must cover the exact
+material and intended public/open-licence distribution rather than only reading.

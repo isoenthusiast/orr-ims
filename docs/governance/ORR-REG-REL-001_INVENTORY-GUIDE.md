@@ -2,14 +2,14 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-001 / REG / r03 |
-| Status / prepared | Draft; not approved or effective / 2026-10-30 |
+| Document ID / type / revision | ORR-REG-REL-001 / REG / r05 |
+| Status / prepared | Draft; not approved or effective / 2026-10-31 |
 | Scope / module / layer | Exact candidate files, not private working records / Release preparation, design-r01 / Layer 1 |
 | Custodian / author | Release controller, Unassigned / Codex at Edward Wee's request |
 | Reviewer / approver | Competent release reviewer, Unassigned / Product governance authority, Unassigned |
 | Classification / lifecycle | Public draft; organizational approval pending / Maintained schema; generated snapshot |
 | Basis | ORR-STD-DOC-001 r02; prepared under OIMS-STD-DOC-001 r05 |
-| Review trigger / supersedes / deviations | Any selected file, rights or status change / r02 retained in private history / None |
+| Review trigger / supersedes / deviations | Any selected file, rights or status change / r04 retained in private history / None |
 
 ## Scope and authority
 
@@ -33,7 +33,7 @@ historical snapshots and source records are intentionally excluded.
 
 The release envelope retained with the audit hashes every file, including this
 CSV. That envelope resolves the self-hash exception. It proves file identity,
-not truth, ownership or suitability. The fixed snapshot revision is r03; any
+not truth, ownership or suitability. The fixed snapshot revision is r05; any
 later assessed revision requires a preserved predecessor and updated revision.
 
 ## Updating, access and retention
@@ -74,3 +74,19 @@ are retained in private history. Operational status remains Draft, not effective
 maturity criteria, requested by Edward Wee for the public project introduction.
 The criteria remain proposals, not a stable-release decision. The r02 publication
 decision remains historical evidence for its original selection.
+
+## r04 — explicit reviewed selection
+
+2026-10-31: the generated inventory now takes file selection and licence/provenance
+from ORR-REG-REL-002 rather than inferring permission from an extension or picking
+up unreviewed untracked files. This inventory is a local review candidate; the
+earlier publication decisions remain tied to their exact versions. Prior r03
+bytes are retained privately. Licence allocation is not legal clearance.
+
+## r05 — authorized learning draft distribution
+
+2026-10-31: Edward Wee authorized publication of the reviewed 43-file learning
+draft with the recorded unresolved risks retained. This revision captures the
+publication decision and associated navigation/register updates; template masters
+are unchanged. Prior r04 is preserved privately. Organizational status remains
+Draft, not effective; no independent legal clearance is implied.

@@ -7,7 +7,7 @@ his original contributions. This notice claims no ownership of third-party work.
 
 | Material in this repository | Licence |
 |---|---|
-| Original Markdown documentation and fictional JSON example | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| Original Markdown documentation and original template/register/example data (JSON/CSV), excluding the brand assets below | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | Original Python, HTML, CSS, brand token JSON and generated brand CSV assets; repository configuration and check tooling | [Apache-2.0](LICENSES/Apache-2.0.txt) |
 | Generated release inventory | CC BY 4.0 |
 | Licence texts | Unmodified texts of the respective licences; not relicensed by this notice |

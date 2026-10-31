@@ -18,18 +18,22 @@ See [project attribution](AUTHORS.md) for contribution scope and acknowledgments
 The intended scope is original management-system guidance and a future software
 core. Specialist commercial plugins and client material are outside this edition.
 No application or complete management-system template pack is implemented here yet.
+The [learning template starter](docs/templates/README.md) adds all twelve document
+types for one bounded workflow as a public learning draft; it is not the complete
+process library or an approved ISO mapping.
 
-Content will be selected and reviewed individually. No private repository history,
+Content is selected and reviewed individually. No private repository history,
 publisher publications, converted source texts or client records are included in
-this initial scaffold. This repository does not establish ISO certification,
+this candidate. This repository does not establish ISO certification,
 regulatory compliance, publisher endorsement or operational effectiveness.
 
 Original documentation is licensed under CC BY 4.0; code and specified design
 assets use Apache-2.0. See [LICENSING.md](LICENSING.md) for the exact allocation,
 third-party exclusions and the distinction between licensing and release approval.
 
-Edward Wee authorized this draft publication on 2026-10-30 with the recorded
-unresolved risks accepted. This is not independent legal clearance or approval
+Edward Wee authorized the earlier 27-file draft publication on 2026-10-30 with the recorded
+unresolved risks accepted. The learning additions have a separate 2026-10-31 draft publication decision.
+That historical decision is not independent legal clearance or approval
 for organizational operation. See
 [governance](GOVERNANCE.md), [source acknowledgments](SOURCES.md) and
 [candidate inventory](docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv).
@@ -117,3 +121,13 @@ the proposed public folder tree, future core/plugin boundaries and logical data
 model. The paired [fictional JSON](docs/ORR-FWK-REP-001_FICTIONAL-DATA.json) shows
 a risk-to-leadership journey with no actual operating evidence. These are r03
 drafts; application folders, schemas and runtime remain proposed.
+
+## Learning draft publication — 2026-10-31
+
+Edward Wee authorized publication of the reviewed 43-file learning draft,
+including the twelve-type starter and release-control fixes, with the stated
+unresolved risks retained. Historical source-use permissions, name clearance and
+independent competent review remain open; two proposed ISO mapping rows remain
+unverified. This decision does not establish legal clearance or organizational
+approval. The 2026-10-30 decision remains tied to its earlier selection. See the [publication register guide](docs/governance/ORR-REG-REL-002_PUBLICATION-GUIDE.md)
+for file-level provenance, unresolved rights questions and current decision status.
