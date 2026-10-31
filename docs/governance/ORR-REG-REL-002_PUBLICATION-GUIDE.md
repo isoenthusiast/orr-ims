@@ -2,7 +2,7 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-002 / REG / r06 |
+| Document ID / type / revision | ORR-REG-REL-002 / REG / r07 |
 | Prepared / status | 2026-11-01 / Draft — not approved or effective |
 | Scope / module / layer | Exact public candidate selection / Release preparation / Layer 1 |
 | Owner / actual appointment | Release controller / Unassigned |
@@ -14,7 +14,7 @@
 | Canonical / index | Paired publication JSON; this file is its guide; distribution inventory ORR-REG-REL-001; working preparation index retained privately |
 | Review trigger | Changed scope, source, authority, decision rule or user finding; before adoption |
 | Retention / access | Public blank/example only; real records stay in authorized private storage; preserve until actual schedule and holds are decided |
-| Supersedes / deviations | r05 retained before beginner publication / None; renamed headings preserve type-profile content |
+| Supersedes / deviations | r06 retained before README publication / None; renamed headings preserve type-profile content |
 
 ## 1. Scope, custodian and identity
 
@@ -47,7 +47,7 @@ not permission grants. Unmodified licence texts have their separate allocation.
 | files[].publication_decision | Must match the register's current decision state |
 
 Canonical data: [publication register](ORR-REG-REL-002_PUBLICATION-REGISTER.json).
-Current state is `Authorized beginner learning draft publication; unresolved risks retained`. A future release-state change
+Current state is `Authorized learner-focused README publication; unresolved risks retained`. A future release-state change
 requires an attributable decision and corresponding controlled revision, including
 updates to the locally retained checker's accepted state. Code cannot confer publication authority.
 
@@ -118,3 +118,9 @@ acceptance are not extended automatically. Author checks are not independent rev
 repository. This records distribution authorization for the reviewed 66-file
 selection, retaining draft labels and unresolved risks. Prior r05 preserved
 privately. No independent clearance or organizational effectiveness is implied.
+
+## r07 — learner-focused README publication
+
+2026-11-01: Edward authorized pushing the revised learning introduction and
+beginner navigation. Template masters and file selection are unchanged. Prior
+r06 retained privately; unresolved findings and adoption limits remain open.

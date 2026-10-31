@@ -1,13 +1,13 @@
 {
   "document_id": "ORR-REG-REL-002",
-  "revision": "r06",
+  "revision": "r07",
   "status": "Draft",
   "prepared_date": "2026-11-01",
   "custodian_role": "Release controller",
   "actual_custodian": "Unassigned",
   "author": "Codex at Edward Wee's request",
   "reviewer": "Author review only; independent reviewer unassigned",
-  "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained",
+  "publication_decision": "Authorized learner-focused README publication; unresolved risks retained",
   "source_rights_scope": "Explicit selection with per-file provenance and limitations, not legal clearance",
   "sources": {
     "owner-direction": {
@@ -94,7 +94,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "AUTHORS.md",
@@ -110,7 +110,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -126,7 +126,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "GOVERNANCE.md",
@@ -147,7 +147,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "LICENSES/Apache-2.0.txt",
@@ -162,7 +162,7 @@
       "third_party_content": "The respective publisher licence text; not claimed as project original content",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Exact baseline bytes preserved; this row does not license referenced standards or trademarks",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "LICENSES/CC-BY-4.0.txt",
@@ -177,7 +177,7 @@
       "third_party_content": "The respective publisher licence text; not claimed as project original content",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Exact baseline bytes preserved; this row does not license referenced standards or trademarks",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "LICENSING.md",
@@ -194,7 +194,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "NOTICE.md",
@@ -215,7 +215,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "README.md",
@@ -232,7 +232,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "SECURITY.md",
@@ -248,7 +248,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "SOURCES.md",
@@ -269,12 +269,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-001_INVENTORY-GUIDE.md",
       "document_id": "ORR-REG-REL-001",
-      "revision": "r09",
+      "revision": "r10",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -285,12 +285,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-001_RELEASE-INVENTORY.csv",
       "document_id": "ORR-REG-REL-001",
-      "revision": "r09",
+      "revision": "r10",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -301,12 +301,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-002_PUBLICATION-GUIDE.md",
       "document_id": "ORR-REG-REL-002",
-      "revision": "r06",
+      "revision": "r07",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -317,12 +317,12 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-REG-REL-002_PUBLICATION-REGISTER.json",
       "document_id": "ORR-REG-REL-002",
-      "revision": "r06",
+      "revision": "r07",
       "licence": "CC-BY-4.0",
       "origin": "Original AI-assisted project documentation/data; historical source-use question retained",
       "source_refs": [
@@ -333,7 +333,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/governance/ORR-STD-DOC-001_DOCUMENT-CONTROL.md",
@@ -349,7 +349,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/implementation/ORR-FRM-IMP-001_ADOPTION-ASSESSMENT.md",
@@ -365,7 +365,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/implementation/ORR-PLN-IMP-001_IMPLEMENTATION-PLAN.md",
@@ -381,7 +381,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/implementation/ORR-SOP-IMP-001_IMPLEMENTATION-GUIDE.md",
@@ -397,7 +397,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-ASP-GEN-001_SCOPED-ASSURANCE-PROTOCOL.md",
@@ -413,7 +413,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-FRM-GEN-001_CONCERN-FORM.md",
@@ -429,7 +429,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-FWK-GEN-001_LEARNING-FRAMEWORK.md",
@@ -447,7 +447,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-PLN-GEN-001_LEARNING-PILOT-PLAN.md",
@@ -463,7 +463,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-POL-GEN-001_EVIDENCE-POLICY.md",
@@ -479,7 +479,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-PRO-GEN-001_CONCERN-TO-ASSURANCE.md",
@@ -495,7 +495,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-REC-GEN-001_FICTIONAL-DECISION-RECORD.md",
@@ -511,7 +511,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-REG-GEN-001_ACTION-REGISTER.md",
@@ -527,7 +527,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-RPT-GEN-001_FICTIONAL-ASSURANCE-REPORT.md",
@@ -543,7 +543,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-SOP-GEN-001_ASSESS-AND-DECIDE.md",
@@ -559,7 +559,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-STD-GEN-001_ORIGINAL-REQUIREMENTS.md",
@@ -576,7 +576,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance; two proposed mapping rows remain unverified and cannot support a conformity claim",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/ORR-WI-GEN-001_REVIEW-CLOSURE-EVIDENCE.md",
@@ -592,7 +592,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/README.md",
@@ -609,7 +609,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/provenance review only; no independent legal opinion, comprehensive similarity search, trademark clearance or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-CTX-001_DEFINE-CONTEXT-AND-SCOPE.md",
@@ -626,7 +626,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-CTX-001_DEFINE-CONTEXT-AND-SCOPE-WORKSHEET.md",
@@ -643,7 +643,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-RSK-001_ASSESS-RISKS-AND-DEFINE-CONTROLS.md",
@@ -660,7 +660,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-RSK-001_ASSESS-RISKS-AND-DEFINE-CONTROLS-WORKSHEET.md",
@@ -677,7 +677,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-OBJ-001_SET-OBJECTIVES-AND-DELIVERY-PLANS.md",
@@ -694,7 +694,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-OBJ-001_SET-OBJECTIVES-AND-DELIVERY-PLANS-WORKSHEET.md",
@@ -711,7 +711,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-DOC-001_CONTROL-DOCUMENTS-AND-RECORDS.md",
@@ -728,7 +728,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-DOC-001_CONTROL-DOCUMENTS-AND-RECORDS-WORKSHEET.md",
@@ -745,7 +745,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-MRV-001_REVIEW-THE-SYSTEM-AND-TRACK-DECISIONS.md",
@@ -762,7 +762,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-MRV-001_REVIEW-THE-SYSTEM-AND-TRACK-DECISIONS-WORKSHEET.md",
@@ -779,7 +779,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-IMP-002_START-AN-IMS-FROM-SCRATCH.md",
@@ -796,7 +796,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-REG-IMP-001_PROCESS-CATALOGUE.md",
@@ -813,7 +813,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-ASP-IMP-001_BEGINNER-KIT-ACCEPTANCE.md",
@@ -830,7 +830,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-REC-IMP-001_FICTIONAL-CHEMICAL-COMPANY-JOURNEY.md",
@@ -847,7 +847,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-CTX-001_DEFINE-CONTEXT-AND-SCOPE.docx",
@@ -864,7 +864,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-CTX-001_DEFINE-CONTEXT-AND-SCOPE-WORKSHEET.docx",
@@ -881,7 +881,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-CTX-001_DEFINE-CONTEXT-AND-SCOPE-WORKSHEET.xlsx",
@@ -898,7 +898,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-RSK-001_ASSESS-RISKS-AND-DEFINE-CONTROLS.docx",
@@ -915,7 +915,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-RSK-001_ASSESS-RISKS-AND-DEFINE-CONTROLS-WORKSHEET.docx",
@@ -932,7 +932,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-RSK-001_ASSESS-RISKS-AND-DEFINE-CONTROLS-WORKSHEET.xlsx",
@@ -949,7 +949,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-OBJ-001_SET-OBJECTIVES-AND-DELIVERY-PLANS.docx",
@@ -966,7 +966,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-OBJ-001_SET-OBJECTIVES-AND-DELIVERY-PLANS-WORKSHEET.docx",
@@ -983,7 +983,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-OBJ-001_SET-OBJECTIVES-AND-DELIVERY-PLANS-WORKSHEET.xlsx",
@@ -1000,7 +1000,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-DOC-001_CONTROL-DOCUMENTS-AND-RECORDS.docx",
@@ -1017,7 +1017,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-DOC-001_CONTROL-DOCUMENTS-AND-RECORDS-WORKSHEET.docx",
@@ -1034,7 +1034,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-DOC-001_CONTROL-DOCUMENTS-AND-RECORDS-WORKSHEET.xlsx",
@@ -1051,7 +1051,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-MRV-001_REVIEW-THE-SYSTEM-AND-TRACK-DECISIONS.docx",
@@ -1068,7 +1068,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-MRV-001_REVIEW-THE-SYSTEM-AND-TRACK-DECISIONS-WORKSHEET.docx",
@@ -1085,7 +1085,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-FRM-MRV-001_REVIEW-THE-SYSTEM-AND-TRACK-DECISIONS-WORKSHEET.xlsx",
@@ -1102,7 +1102,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-SOP-IMP-002_START-AN-IMS-FROM-SCRATCH.docx",
@@ -1119,7 +1119,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-REG-IMP-001_PROCESS-CATALOGUE.docx",
@@ -1136,7 +1136,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-ASP-IMP-001_BEGINNER-KIT-ACCEPTANCE.docx",
@@ -1153,7 +1153,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/ORR-REC-IMP-001_FICTIONAL-CHEMICAL-COMPANY-JOURNEY.docx",
@@ -1170,7 +1170,7 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     },
     {
       "path": "docs/templates/beginner/README.md",
@@ -1187,10 +1187,10 @@
       "third_party_content": "No third-party expressive content identified in the scoped author review; bibliographic references/attribution only where present",
       "author_review": "Author-reviewed within stated limits",
       "limitations": "Author content/structural review only; no independent rights clearance, real novice trial, rendered Office layout review, normative clause verification or organizational acceptance",
-      "publication_decision": "Authorized beginner learning draft publication; unresolved risks retained"
+      "publication_decision": "Authorized learner-focused README publication; unresolved risks retained"
     }
   ],
-  "decision_record": "GOVERNANCE.md \u2014 2026-11-01 beginner learning publication decision",
+  "decision_record": "GOVERNANCE.md \u2014 2026-11-01 learner-focused README publication decision",
   "accepted_risk_ids": [
     "PUB-R01",
     "PUB-R02",

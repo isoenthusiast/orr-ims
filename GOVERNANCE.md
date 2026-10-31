@@ -151,3 +151,12 @@ real novice trials, Office layout review and independent review remain pending.
 No organizational approval, certification or operating effectiveness is asserted.
 Brand development, UX prototypes, source files, maintainer tools and private review
 records remain excluded under the previously agreed documentation-only scope.
+
+## 2026-11-01 — learner-focused README publication decision
+
+Edward explicitly instructed pushing the reviewed README revision. The introduction
+now presents an example integrated management system for learners, highlights the
+Beginner’s Guide and explains the connected fictional case. The 66-file selection
+and template masters are unchanged; inventory r10 and publication register r07
+capture the new exact distribution. Existing unresolved risks and mitigations
+remain applicable; no new conformity, rights-clearance or effectiveness claim is made.

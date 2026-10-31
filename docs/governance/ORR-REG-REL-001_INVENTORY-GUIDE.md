@@ -2,14 +2,14 @@
 
 | Control field | Value |
 |---|---|
-| Document ID / type / revision | ORR-REG-REL-001 / REG / r09 |
+| Document ID / type / revision | ORR-REG-REL-001 / REG / r10 |
 | Status / prepared | Draft; not approved or effective / 2026-11-01 |
 | Scope / module / layer | Exact candidate files, not private working records / Release preparation, design-r01 / Layer 1 |
 | Custodian / author | Release controller, Unassigned / Codex at Edward Wee's request |
 | Reviewer / approver | Competent release reviewer, Unassigned / Product governance authority, Unassigned |
 | Classification / lifecycle | Public draft; organizational approval pending / Maintained schema; generated snapshot |
 | Basis | ORR-STD-DOC-001 r02; prepared under OIMS-STD-DOC-001 r05 |
-| Review trigger / supersedes / deviations | Any selected file, rights or status change / r08 retained before beginner publication / None |
+| Review trigger / supersedes / deviations | Any selected file, rights or status change / r09 retained before README publication / None |
 
 ## Scope and authority
 
@@ -118,3 +118,9 @@ acceptance are not extended automatically. Author checks are not independent rev
 repository. This records distribution authorization for the reviewed 66-file
 selection, retaining draft labels and unresolved risks. Prior r08 preserved
 privately. No independent clearance or organizational effectiveness is implied.
+
+## r10 — learner-focused README publication
+
+2026-11-01: Edward authorized pushing the revised learning introduction and
+beginner navigation. Template masters and file selection are unchanged. Prior
+r09 retained privately; unresolved findings and adoption limits remain open.
